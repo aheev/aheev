@@ -18,10 +18,8 @@ I build data infrastructure and storage systems, with a focus on **graph + colum
 
 My recent work and contributions span:
 - **Graph databases & query stacks**: `ladybug`, `lance-graph`, `bugscope`, graph benchmark suites
-- **Storage formats & data infra**: `lance`, `lancedb`, `iceberg`, `iceberg-rust`, `lakekeeper`
+- **Storage formats & data infra**: `lance`, `lancedb`, `iceberg`
 - **Language bindings & ecosystem tooling**: `ladybug-*` and `icebug-*` bindings across Rust, Python, Node.js, Java, and C
-
-I enjoy taking systems from low-level engine work to usable developer tooling and visualization.
 
 > 💼 **Open to freelance work in data infrastructure / storage projects.**
 
@@ -45,14 +43,20 @@ I enjoy taking systems from low-level engine work to usable developer tooling an
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aheev&show_icons=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=aheev" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheev&layout=compact" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aheev&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=radical" />
+<img height="170" src="https://streak-stats.demolab.com?user=aheev&hide_border=true&theme=radical" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aheev&layout=compact&langs_count=8&hide_border=true&theme=radical" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aheev&theme=react-dark&hide_border=true&area=true" width="95%" />
+
+</div>
 
 ---
 
@@ -62,16 +66,14 @@ I enjoy taking systems from low-level engine work to usable developer tooling an
   <img src="https://raw.githubusercontent.com/aheev/aheev/output/snake.svg" alt="snake animation" />
 </p>
 
-> To enable the snake, add a GitHub Action that generates it into the `output` branch.
-
 ---
 
 ## 📌 Featured Repositories
 
+- [icebug-format](https://github.com/aheev/icebug) - CSR based standard Graph Format
 - [ladybug](https://github.com/aheev/ladybug) — graph database core
 - [icebug](https://github.com/aheev/icebug) — zero-copy columnar storage focus
 - [lance-graph](https://github.com/aheev/lance-graph) — graph queries with Lance
-- [turing-bench](https://github.com/aheev/turing-bench) — benchmarking tooling
 - [bugscope](https://github.com/aheev/bugscope) — graph visualization UI
 
 ---
@@ -79,5 +81,6 @@ I enjoy taking systems from low-level engine work to usable developer tooling an
 ## 🤝 Contact
 
 - GitHub: https://github.com/aheev
-- LinkedIn: https://linkedin.com/in/your-handle
-- Email: you@example.com
+- Discord: https://discord.com/invite/hXyHmvW3Vy
+- X (Twitter): https://x.com/allyheev
+- Dev.to: https://dev.to/ally_heev_a2677bbdadf870a
